@@ -27,3 +27,11 @@
    if, break, random을 이용한 up&down 숫자게임 <br>
    [[코드]](https://github.com/Hoj4/C-Programming-Basics/blob/master/MyProject/condition.c) <br>
    ![image](https://github.com/Hoj4/C-Programming-Basics/assets/118800372/f738fa8d-2721-4799-a74f-3878ee052bf6)
+
+4. 계산기 <br>
+   random, 함수를 이용한 계산기 <br>
+   [[코드]](https://github.com/Hoj4/C-Programming-Basics/blob/master/MyProject/function_project.c) <br>
+   ![image](https://github.com/Hoj4/C-Programming-Basics/assets/118800372/69d3005b-c16f-40c3-911b-c31cda708e91)
+
+   
+   
