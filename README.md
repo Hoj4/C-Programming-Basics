@@ -33,5 +33,8 @@
    [[코드]](https://github.com/Hoj4/C-Programming-Basics/blob/master/MyProject/function_project.c) <br>
    ![image](https://github.com/Hoj4/C-Programming-Basics/assets/118800372/69d3005b-c16f-40c3-911b-c31cda708e91)
 
-   
-   
+5. 대머리 <br>
+   배열을 이용한 대머리 발모제 찾기  <br>
+    [[코드]](https://github.com/Hoj4/C-Programming-Basics/blob/master/MyProject/array_project.c) <br>
+   ![image](https://github.com/Hoj4/C-Programming-Basics/assets/118800372/27f298b2-8980-4718-a81c-1f0fe7b75524)
+
