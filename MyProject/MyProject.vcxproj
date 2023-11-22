@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array.c" />
+    <ClCompile Include="array_project.c" />
     <ClCompile Include="condition.c" />
     <ClCompile Include="funcion.c" />
     <ClCompile Include="function_project.c" />
