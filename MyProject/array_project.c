@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main_array_project(void) {
 	srand(time(NULL));
 	printf("\n\n === 아빠는 대머리 게임 === \n\n");
 	int answer; // 사용자 입력값
