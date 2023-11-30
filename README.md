@@ -1,7 +1,7 @@
 # C-Programming-Basics
 
 ## 🖥️ 프로젝트 소개
-개발자에게 필수인 C언어 기초 다지기
+간단한 미니게임을 통한 C언어 기초 다지기
 
 ## 🕰️ 개발 기간
 23.11.06일 - ing
@@ -34,7 +34,14 @@
    ![image](https://github.com/Hoj4/C-Programming-Basics/assets/118800372/69d3005b-c16f-40c3-911b-c31cda708e91)
 
 5. 대머리 <br>
-   배열을 이용한 대머리 발모제 찾기  <br>
+   배열을 이용하여 랜덤으로 섞여있는 대머리 발모제 찾기  <br>
     [[코드]](https://github.com/Hoj4/C-Programming-Basics/blob/master/MyProject/array_project.c) <br>
    ![image](https://github.com/Hoj4/C-Programming-Basics/assets/118800372/27f298b2-8980-4718-a81c-1f0fe7b75524)
+
+6. 어항에 물주기 <br>
+   pointer를 이용하여 시간이 지날수록 물이 줄어드는 어항에 물을 채워넣기 <br>
+    [[코드]](https://github.com/Hoj4/C-Programming-Basics/blob/master/MyProject/pointer_project.c) <br>
+
+
+https://github.com/Hoj4/C-Programming-Basics/assets/118800372/cd8bc675-3e17-4581-9cd3-332a98f3d120 
 
