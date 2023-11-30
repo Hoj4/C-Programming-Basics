@@ -134,6 +134,7 @@
     <ClCompile Include="function_project.c" />
     <ClCompile Include="loop.c" />
     <ClCompile Include="pointer.c" />
+    <ClCompile Include="pointer_project.c" />
     <ClCompile Include="printfscanf.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
